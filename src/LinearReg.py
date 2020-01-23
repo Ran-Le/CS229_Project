@@ -98,5 +98,5 @@ if __name__ == '__main__':
         input_col=input_col,
         label_col=label_col,
         ransac=False,
-        cross = False,  # cross test: True
+        cross = True,  # cross test: True
         profile_test=6) # if cross test, profile used for test
