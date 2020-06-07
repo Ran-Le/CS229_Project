@@ -1,4 +1,4 @@
-# CS229_proj
+# Electrical Motor Temperature Prediction
 Final project for 2019 Fall CS 229 Machine Learning
 ## Installation
 ```
